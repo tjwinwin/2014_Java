@@ -1,0 +1,10 @@
+package birthday;
+
+public class BirthDay {
+
+	public static void main(String[] args) {
+		System.out.println("날짜를 입력하면 유효성을 판별합니다. \nInput:");
+
+	}
+
+}
